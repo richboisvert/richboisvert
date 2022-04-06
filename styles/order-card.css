@@ -1,0 +1,21 @@
+/* Font Family from Google fonts Red HAt Display */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;900&display=swap');
+
+
+:root {
+    font-size: 16px;
+
+    /* *Primary blue colour */
+    --clr-pale: hsl(225, 100%, 94%);
+    --clr-bright: hsl(245, 75%, 52%);
+    
+    /* *Neutral blue colour */
+    --clr-very-pale: hsl(225, 100%, 98%);
+    --clr-desaturated: hsl(224, 23%, 55%);
+    --clr-dark: hsl(223, 47%, 23%);
+
+    /* *Font weights */
+    --font-wght-medium: 500;
+    --font-wght-bold: 700;
+    --font-wght-black: 900;
+}
